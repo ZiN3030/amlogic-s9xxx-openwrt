@@ -5,8 +5,6 @@
 | Default IP | 192.168.1.1 |
 | Default Account | root |
 | Default Password | password |
-| Default WIFI Name | OpenWrt |
-| Default WIFI Password | None |
 
 ## Links
 
