@@ -73,7 +73,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -ZiN
 
 env:
   TZ: America/New_York
